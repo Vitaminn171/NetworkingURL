@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkingURL</string>
+    	<string name="load_data_string">Load Data</string>
+    <string name="map">Map</string>
+    <string name="textview">textview</string>
+    <string name="countryName">Country Name</string>
+    <string name="dot"> : </string>
+    <string name="first_fragment_label">1</string>
+    <string name="second_fragment_label">2</string>
+    <string name="action_settings">setting</string>
+    <string name="countryCode">Country Code</string>
+    <string name="population">Population</string>
+    <string name="areaInSqKm">Acreage</string>
+    <string name="capital">Capital</string>
+    <string name="people">people</string>
+    <string name="Km2">km2</string>
+    <string name="marginText">20dp</string>
+    <string name="marginStartText">20dp</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="from_currency">From Currency:</string>
+    <string name="to_currency">To Currency:</string>
+    <string name="result">Result</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="convert">Convert</string>
+    <string name="load_data_string_currency">Exchange Currency</string>
+    <string name="Enter">Enter</string>
+
+</resources>

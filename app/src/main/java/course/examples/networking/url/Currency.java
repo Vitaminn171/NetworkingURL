@@ -2,6 +2,13 @@ package course.examples.networking.url;
 
 import java.io.Serializable;
 
+/*
+Tên: Lý Quốc An
+MSSV: 3119410002
+ */
+
+
+
 public class Currency implements Serializable {
     private String name;
     private String currency;

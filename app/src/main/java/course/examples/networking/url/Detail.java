@@ -17,6 +17,13 @@ import java.io.File;
 import java.text.DecimalFormat;
 import java.util.Objects;
 
+/*
+Tên: Lý Quốc An
+MSSV: 3119410002
+ */
+
+
+
 public class Detail extends NetworkingURLActivity {
     private TextView textViewCountryName,textViewPopulation,textViewAreaInSqKm,textViewCapital;
     private ImageView imageViewFlag,imageViewMap;

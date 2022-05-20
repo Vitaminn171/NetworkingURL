@@ -54,6 +54,12 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
+/*
+Tên: Lý Quốc An
+MSSV: 3119410002
+ */
+
+
 public class NetworkingURLActivity extends Activity {
     static final String TAG = "NetworkingURLActivity";
 

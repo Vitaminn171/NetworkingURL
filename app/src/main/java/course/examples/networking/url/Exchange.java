@@ -154,6 +154,9 @@ public class Exchange extends NetworkingURLActivity {
             if(textFrom.equals(c.getName())){
                 rate2 = Double.parseDouble(c.getCurrency());
             }
+            if(rate1 != 0 && rate2 != 0){
+                break;
+            }
         }
         String get_amount = currency_to_be_converted.getText().toString().replace(",","");
         double amount = Double.parseDouble(get_amount);

@@ -98,7 +98,7 @@ public class Exchange extends NetworkingURLActivity {
 
 
     private void onDownloadfinished(List<Currency> iCur) throws IOException {
-        String[] dropDownList = new String[161];
+        String[] dropDownList = new String[iCur.size()+1];
         item = new String[iCur.size()+1][2];
         // the value of 1 row is "name of currency" and the "exchange rate"
         String name = "United States Dollar(USD)";

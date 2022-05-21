@@ -4,10 +4,14 @@
       <root url="jar://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/5953ab2f45a5bce3845d68f455d0d9ff/transformed/work-runtime-ktx-2.8.0-alpha02/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/5953ab2f45a5bce3845d68f455d0d9ff/transformed/work-runtime-ktx-2.8.0-alpha02/res" />
       <root url="file://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/5953ab2f45a5bce3845d68f455d0d9ff/transformed/work-runtime-ktx-2.8.0-alpha02/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5953ab2f45a5bce3845d68f455d0d9ff/transformed/work-runtime-ktx-2.8.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5953ab2f45a5bce3845d68f455d0d9ff/transformed/work-runtime-ktx-2.8.0-alpha02/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5953ab2f45a5bce3845d68f455d0d9ff/transformed/work-runtime-ktx-2.8.0-alpha02/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/modules-2/files-2.1/androidx.work/work-runtime-ktx/2.8.0-alpha02/5a6444847a746fb23c415a34d554e98fd5c73650/work-runtime-ktx-2.8.0-alpha02-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.work/work-runtime-ktx/2.8.0-alpha02/5a6444847a746fb23c415a34d554e98fd5c73650/work-runtime-ktx-2.8.0-alpha02-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

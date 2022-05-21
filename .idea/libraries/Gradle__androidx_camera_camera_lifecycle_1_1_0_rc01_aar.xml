@@ -4,10 +4,14 @@
       <root url="jar://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/e5a9f2a2c59e52c2b5b42608e52cfb43/transformed/camera-lifecycle-1.1.0-rc01/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/e5a9f2a2c59e52c2b5b42608e52cfb43/transformed/camera-lifecycle-1.1.0-rc01/res" />
       <root url="file://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/e5a9f2a2c59e52c2b5b42608e52cfb43/transformed/camera-lifecycle-1.1.0-rc01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5a9f2a2c59e52c2b5b42608e52cfb43/transformed/camera-lifecycle-1.1.0-rc01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e5a9f2a2c59e52c2b5b42608e52cfb43/transformed/camera-lifecycle-1.1.0-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5a9f2a2c59e52c2b5b42608e52cfb43/transformed/camera-lifecycle-1.1.0-rc01/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-lifecycle/1.1.0-rc01/dded7f87640a8c9dfd4e62c178a08599bb1c63d5/camera-lifecycle-1.1.0-rc01-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-lifecycle/1.1.0-rc01/dded7f87640a8c9dfd4e62c178a08599bb1c63d5/camera-lifecycle-1.1.0-rc01-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

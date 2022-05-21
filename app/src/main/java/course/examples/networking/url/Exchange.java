@@ -1,11 +1,13 @@
 package course.examples.networking.url;
 
+import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -157,8 +159,18 @@ public class Exchange extends NetworkingURLActivity {
         double amount = Double.parseDouble(get_amount);
         double convert_1 = amount * rate1;
         double convert_2 = convert_1 / rate2;
-        String result = String.valueOf(convert_2);
-        currency_converted.setText(result);
+        //String result = String.valueOf(convert_2);
+        @SuppressLint("DefaultLocale") String result = String.format("%.2f",convert_2);
+        int index1 = result.indexOf(".");
+        String temp;
+        temp = result.substring(0,index1);
+
+
+
+        DecimalFormat formatter = new DecimalFormat("#,###,###");
+        String result1 = formatter.format(Integer.parseInt(temp));
+        String result2 = result.replace(temp,result1);
+        currency_converted.setText(result2);
     }
 
 
@@ -318,5 +330,10 @@ public class Exchange extends NetworkingURLActivity {
         } catch (KeyManagementException e) {
             e.printStackTrace();
         }
+    }
+
+    public boolean onOptionsItemSelected(MenuItem item){
+        finish();
+        return true;
     }
 }

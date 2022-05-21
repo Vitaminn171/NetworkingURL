@@ -2,15 +2,20 @@
   <library name="Gradle: androidx.camera:camera-extensions:1.1.0-rc01@aar">
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/9f22c6e09b353a8b440fa8fd99af3303/transformed/camera-extensions-1.1.0-rc01/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9f22c6e09b353a8b440fa8fd99af3303/transformed/camera-extensions-1.1.0-rc01/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/9f22c6e09b353a8b440fa8fd99af3303/transformed/camera-extensions-1.1.0-rc01/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/9f22c6e09b353a8b440fa8fd99af3303/transformed/camera-extensions-1.1.0-rc01/res" />
       <root url="file://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/transforms-3/9f22c6e09b353a8b440fa8fd99af3303/transformed/camera-extensions-1.1.0-rc01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9f22c6e09b353a8b440fa8fd99af3303/transformed/camera-extensions-1.1.0-rc01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9f22c6e09b353a8b440fa8fd99af3303/transformed/camera-extensions-1.1.0-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9f22c6e09b353a8b440fa8fd99af3303/transformed/camera-extensions-1.1.0-rc01/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../NetworkingURL/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-extensions/1.1.0-rc01/b8da22ba387c479d64d2ec7f9081ed0a082cb05c/camera-extensions-1.1.0-rc01-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-extensions/1.1.0-rc01/b8da22ba387c479d64d2ec7f9081ed0a082cb05c/camera-extensions-1.1.0-rc01-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

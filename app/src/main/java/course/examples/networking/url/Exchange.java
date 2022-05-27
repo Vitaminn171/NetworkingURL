@@ -98,7 +98,7 @@ public class Exchange extends NetworkingURLActivity {
 
 
     private void onDownloadfinished(List<Currency> iCur) throws IOException {
-        String[] dropDownList = new String[iCur.size()+1];
+        String[] dropDownList = new String[iCur.size()];
         item = new String[iCur.size()+1][2];
         // the value of 1 row is "name of currency" and the "exchange rate"
         String name = "United States Dollar(USD)";
@@ -129,7 +129,7 @@ public class Exchange extends NetworkingURLActivity {
             i++;
         }
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, R.layout.support_simple_spinner_dropdown_item, dropDownList);
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, R.layout.support_simple_spinner_dropdown_item, dropDownList);
         to.setAdapter(adapter);
         from.setAdapter(adapter);
 
